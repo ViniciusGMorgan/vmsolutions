@@ -15,8 +15,6 @@
         }
       }
       #contact-text {
-        min-height: 300px;
-
         h2 {
           margin-bottom: $gap-4;
           color: $color-white;
@@ -34,6 +32,8 @@
           line-height: 3.2rem;
           color: $color-gray;
           margin: 10px;
+          word-break: break-word !important;
+
           font: {
             size: 2rem;
           }
@@ -74,8 +74,11 @@
         }
       }
       @media screen and (max-width: 768px) {
+        article {
+          width: 100% !important;
+        }
         #contact-info {
-          width: 100%;
+          width: 100% !important;
           align-items: flex-start;
           div {
             margin: 0px 10px;
