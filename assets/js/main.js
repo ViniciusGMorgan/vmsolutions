@@ -32,14 +32,14 @@ hoverChangeExperience(
 );
 
 hoverChangeExperience(
-  ".vmsolutions",
+  ".vmorgan",
   `Como todo programador que se preze, tem que ter aquela empresa de garagem né. 
   Sempre que sobra um tempo eu costumo criar novos projetos, alguns por mero aprendizado,
   outros com a esperança de virar um super negócio, outros feitos com muita criatividade para aquela empresa que busca um site totalmente personalizado.
   Enfim, esse é o nome que dei pra esses casos, sempre buscando solucionar os problemas. 
   Você pode acompanhar um poucos desses projetos logo abaixo.`,
   "Desenvolvedor",
-  "VMSolutions",
+  "vMorgan",
   "Horas vagas"
 );
 
